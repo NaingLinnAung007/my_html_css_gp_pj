@@ -73,7 +73,6 @@ li:hover {
   font-style: normal;
   cursor: pointer;
   transition: 1s;
-
 }
 
 .logo:hover {
@@ -129,7 +128,6 @@ li:hover {
   overflow: hidden;
   border: 2px solid black;
   border-radius: 10px;
-
 }
 
 .img2 {
@@ -146,7 +144,6 @@ li:hover {
 
 .card p {
   font-size: 15px;
-
 }
 
 .fe {
